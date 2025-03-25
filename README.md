@@ -9,7 +9,7 @@
 ### 👨‍🎓 About Me
 
 - 🎓 Software Engineering student at [**VIA University College**](https://www.via.dk/), Denmark  
-- 💼 Actively looking for **internship opportunities** in development or embedded systems  
+- 💼 Actively looking for **internship opportunities**  
 - 🌱 Building a **Greenhouse Automation System** using IoT & real-time logic  
 - 🚀 Passionate about **backend, embedded systems, DevOps, and full-stack projects**  
 - 🤝 Eager to contribute, collaborate, and grow with tech communities
